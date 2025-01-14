@@ -1,8 +1,7 @@
-import "./style.css";
-import products from "./api/products.json";
-import { showProductContainer } from "./homeProductCards";
+import products from "./api/products.json"
+import {showProductContainer} from "./homeProductCards"
+import './style.css'
 
-// Define a function named `showProductContainer` that takes an array of products as input.
-showProductContainer(products);
-
-//todo Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
+console.log(products)
+//Defined a function named 'showproductContainer' that takes an array of products as input.
+showProductContainer(products)

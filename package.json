@@ -1,5 +1,5 @@
 {
-  "name": "jsecom_youtube",
+  "name": "js_ecom",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.1.4"
+    "vite": "^6.0.5"
   }
 }
